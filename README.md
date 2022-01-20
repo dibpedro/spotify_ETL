@@ -11,6 +11,7 @@ To run this program, you first need to have Python and SQLite installed on your 
 
 ## Author
 Starter code: https://github.com/karolina-sowinska
+
 Pedro Dib: for the automation with Selenium part.
 
 ## Acknowledgements
