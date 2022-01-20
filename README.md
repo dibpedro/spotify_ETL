@@ -14,5 +14,5 @@ Starter code: https://github.com/karolina-sowinska
 
 Pedro Dib: for the automation with Selenium part.
 
-## Acknowledgements
+## Thanks
 Thanks to Karolina Sowinska for her wonderful tutorial on ETL processes, I learned a lot from it and then was able make my own ETL projects.
